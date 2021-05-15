@@ -1,0 +1,157 @@
+Residual life - path for dedicated servers.
+
+mselect
+  |
+rk_00
+  |	
+rl_00r1
+  |	
+rl_00t1
+  |
+rl_00u1
+  |	
+rl_00s1
+  |	
+rl_00a7
+  |	
+rl_009
+  |		
+rl_010
+  |		
+rl_01a1
+  |		
+rl_02
+  |		
+rl_02w
+  |		
+rl_02y
+  |		
+rl_02o --- rl_02u3a
+  |	 
+rl_02p	
+  |		
+rl_02l2 -- rl_02d
+  |	    |	
+rl_02l3    rl_02e -- rl_02f
+  |_________|
+  |
+rl_02c
+  |
+rl_02t2
+  |
+rl_02i
+  |
+rl_02l ---rl_02z
+  |	  |
+rl_02i	  rl_02x
+  |	  |
+  |	  rl_02v
+  |	  |
+  |	  rl_02b
+  |_______|      
+  |
+rl_02h2	
+  |
+rl_02j 	
+  |
+rl_02j2	
+  |
+rl_02r2 
+  |
+rl_02k	
+  |
+rl_02k2	
+  |
+rl_02k0	
+  |
+rl_02k3 ---------------- rl_02r2	
+  |	 		 |
+rl_02u1----		 rl_02q 	
+  |	  |		 |	
+  |	  rl_02u3	 rl_01e 	
+  |  	  |		 |
+  |	  rl_02u4	 rl_01f 	
+  |	  |		 |
+  |	  rl_02u3	 rl_01j 	
+  |_______|		 |
+rl_02u2	 		 rl_01k 	
+  |	 		 |
+rl_02u5	 		 rl_01p -- rl_01q 	
+  |	 		 |
+rl_02a1  		 rl_01r
+  |	  		 | 	
+rl_02a2	 		 rl_01t 	
+  |	 		 |
+rl_02a3	  	-------- rl_01z -- rl_02s (go to epilogue) 	
+  |             |
+rl_02a4         |
+  |	        |
+rl_02a5-----------
+  |	
+rl_02a6
+  |	
+rl_02g0 -- (you can go to epilogue)
+  |
+rl_02u3s	
+  |
+rl_02u3t -- rl_02z3dusk -- rl_02z2dusk -- rl_02z5dusk 		
+  |
+rl_02u3w	
+  |	
+rl_02u3v
+  | 	
+rl_02u3k -- rl_02u3u
+  | 	
+rl_02u3l
+  | 	
+rl_02u3m 	
+  |	
+rl_02u3z
+  | 	
+rl_02u3x
+  | 	
+rl_02u3z
+  | 
+rl_02u3s -- (you can go to epilogue)
+  |
+rl_02u3m 	
+  |	
+rl_02u3p
+  |	
+rl_02u3h
+  | 	
+rl_02u3o 
+  |
+rl_02u3h
+  |
+rl_02u3s (go to epilogue)
+  
+(epilogue)
+rl_02s2
+  |
+rl_02z1
+  |
+rl_02z2
+  |
+rl_02z3
+  |
+rl_02z4
+
+
+Residual life: the great escape
+rl_02l9
+  |
+rl_02u3b
+  |
+rl_02u3c
+  |
+rl_02u3e
+
+Residual life: madness
+rl_02l9
+  |
+rl_02z6	
+  |
+rl_02z3	
+  |
+rl_02z2	

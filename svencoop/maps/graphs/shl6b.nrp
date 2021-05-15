@@ -1,0 +1,1167 @@
+Node Graph Report for map:  shl6b.bsp
+35 Total Nodes
+
+Node#            0
+Location       856,1296,-2400
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            1
+Location       640,1512,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            2
+Location       856,1504,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            3
+Location       640,1296,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            4
+Location       528,1440,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            5
+Location       528,1304,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            6
+Location        40,1448,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            7
+Location        40,1304,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            8
+Location        40,1656,-2384
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#            9
+Location      -488,1456,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           10
+Location      -488,1312,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           11
+Location      -620,1456,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           12
+Location      -744,1312,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           13
+Location       688, 992,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           14
+Location       840, 992,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           15
+Location       848, 216,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           16
+Location       704, 216,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           17
+Location       696, -56,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           18
+Location       856,-120,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           19
+Location       856,-320,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           20
+Location       680,-280,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           21
+Location      -144,1688,-2368
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           22
+Location      -384,1616,-2392
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           23
+Location      -152,1624,-2368
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           24
+Location      -620,1312,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           25
+Location      -1096,-192,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           26
+Location      -384,-192,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           27
+Location       768,-192,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           28
+Location      -1088,-1512,-2404
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           29
+Location      -1184, -64,-2408
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           30
+Location      -1184, 112,-2408
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           31
+Location       144,-112,-2400
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           32
+Location        64,-224,-2400
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           33
+Location       -16,-112,-2400
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+Node#           34
+Location      -944, -48,-2400
+HintType:        0
+HintActivity:    0
+HintYaw:      0.000000
+-------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+LinkVisibleNodes - Initial Connections
+----------------------------------------------------------------------------
+Node #   0:
+
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   9
+  10
+  11
+  13
+  14
+  16
+  17
+  20
+  22  Entity on connection: func_wall, name:   Model: *24
+----------------------------------------------------------------------------
+Node #   1:
+
+   0
+   2
+   3
+   4
+   5
+   7
+  10
+  13
+  14
+  16
+  17
+  18
+  19
+  27
+----------------------------------------------------------------------------
+Node #   2:
+
+   0
+   1
+   3
+   4
+   5
+   6
+   7
+   9
+  10
+  11
+  13
+  14
+  16
+  17
+  20
+  27
+----------------------------------------------------------------------------
+Node #   3:
+
+   0
+   1
+   2
+   4
+   5
+   6
+   7
+   9
+  10
+  11
+  13
+  14
+  16
+  18
+  19
+  22  Entity on connection: func_wall, name:   Model: *24
+  27
+----------------------------------------------------------------------------
+Node #   4:
+
+   0
+   1
+   2
+   3
+   5
+   6
+   7
+   9
+  10
+  11
+  14
+----------------------------------------------------------------------------
+Node #   5:
+
+   0
+   1
+   2
+   3
+   4
+   6
+   7
+   9
+  10
+  11
+  14
+  22  Entity on connection: func_wall, name:   Model: *24
+----------------------------------------------------------------------------
+Node #   6:
+
+   0
+   2
+   3
+   4
+   5
+   7
+   9
+  10
+  11
+----------------------------------------------------------------------------
+Node #   7:
+
+   0
+   1
+   2
+   3
+   4
+   5
+   6
+   8
+   9
+  10
+  11
+  22
+  23
+----------------------------------------------------------------------------
+Node #   8:
+
+  21
+  22
+  23
+----------------------------------------------------------------------------
+Node #   9:
+
+   0
+   2
+   3
+   4
+   5
+   6
+   7
+  10
+  11
+----------------------------------------------------------------------------
+Node #  10:
+
+   0
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   9
+  22
+  23
+----------------------------------------------------------------------------
+Node #  11:
+
+   0
+   2
+   3
+   4
+   5
+   6
+   7
+   9
+  12
+  24
+----------------------------------------------------------------------------
+Node #  12:
+
+  11
+  24
+----------------------------------------------------------------------------
+Node #  13:
+
+   0
+   1
+   2
+   3
+  14
+  16
+  17
+  18
+  19
+  20
+  27
+----------------------------------------------------------------------------
+Node #  14:
+
+   0
+   1
+   2
+   3
+   4
+   5
+  13
+----------------------------------------------------------------------------
+Node #  15:
+
+  16
+  17
+  18
+  19
+  20
+  27
+----------------------------------------------------------------------------
+Node #  16:
+
+   0
+   1
+   2
+   3
+  13
+  15
+  17
+  18
+  19
+  20
+  27
+----------------------------------------------------------------------------
+Node #  17:
+
+   0
+   1
+   2
+  13
+  15
+  16
+  18
+  19
+  20
+  25
+  26
+  27
+  31
+  32
+  33
+----------------------------------------------------------------------------
+Node #  18:
+
+   1
+   3
+  13
+  15
+  16
+  17
+  19
+  20
+  25
+  27
+  29
+  31
+  32
+  33
+----------------------------------------------------------------------------
+Node #  19:
+
+   1
+   3
+  13
+  15
+  16
+  17
+  18
+  20
+  26
+  27
+  31
+  32
+  33
+----------------------------------------------------------------------------
+Node #  20:
+
+   0
+   2
+  13
+  15
+  16
+  17
+  18
+  19
+  26
+  27
+  31
+  32
+  33
+----------------------------------------------------------------------------
+Node #  21:
+
+   8
+  23
+----------------------------------------------------------------------------
+Node #  22:
+
+   0  Entity on connection: func_wall, name:   Model: *24
+   3  Entity on connection: func_wall, name:   Model: *24
+   5  Entity on connection: func_wall, name:   Model: *24
+   7
+   8
+  10
+  23
+----------------------------------------------------------------------------
+Node #  23:
+
+   7
+   8
+  10
+  21
+  22
+----------------------------------------------------------------------------
+Node #  24:
+
+  11
+  12
+----------------------------------------------------------------------------
+Node #  25:
+
+  17
+  18
+  26
+  27
+  28
+  29
+  31
+  33
+  34
+----------------------------------------------------------------------------
+Node #  26:
+
+  17
+  19
+  20
+  25
+  27
+  29
+  31
+  33
+----------------------------------------------------------------------------
+Node #  27:
+
+   1
+   2
+   3
+  13
+  15
+  16
+  17
+  18
+  19
+  20
+  25
+  26
+  29
+  31
+  32
+  33
+----------------------------------------------------------------------------
+Node #  28:
+
+  25
+  29
+  30  Entity on connection: func_door_rotating, name:   Model: *35
+  34
+----------------------------------------------------------------------------
+Node #  29:
+
+  18
+  25
+  26
+  27
+  28
+  30  Entity on connection: func_door_rotating, name:   Model: *35
+  31
+  33
+  34
+----------------------------------------------------------------------------
+Node #  30:
+
+  28  Entity on connection: func_door_rotating, name:   Model: *35
+  29  Entity on connection: func_door_rotating, name:   Model: *35
+----------------------------------------------------------------------------
+Node #  31:
+
+  17
+  18
+  19
+  20
+  25
+  26
+  27
+  29
+  32
+  33
+----------------------------------------------------------------------------
+Node #  32:
+
+  17
+  18
+  19
+  20
+  27
+  31
+----------------------------------------------------------------------------
+Node #  33:
+
+  17
+  18
+  19
+  20
+  25
+  26
+  27
+  29
+  31
+----------------------------------------------------------------------------
+Node #  34:
+
+  25
+  28
+  29
+----------------------------------------------------------------------------
+
+ 325 Total Initial Connections -   17 Maximum connections for a single node.
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+Walk Rejection:
+-------------------------------------------------------------------------------
+Node    0:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  22 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    1:
+
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  27 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  10 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  16 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  17 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    2:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   6 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   9 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  11 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node    3:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  16 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  27 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  22 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  19 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node    4:
+
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node    5:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  14 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  22 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node    6:
+
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node    7:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  23 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  22 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node    8:
+
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node    9:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   2 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   10:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  23 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  22 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   11:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node   12:
+
+-------------------------------------------------------------------------------
+Node   13:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_HUMAN_HULL step 0.000000
+NODE_HUMAN_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  20 - Unreachable by Any Hull
+NODE_HUMAN_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node   14:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   15:
+
+-------------------------------------------------------------------------------
+Node   16:
+
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_HUMAN_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node   17:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  33 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  25 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  31 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  26 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   18:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  29 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  33 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   19:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  33 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   20:
+
+NODE_HUMAN_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  33 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   21:
+
+-------------------------------------------------------------------------------
+Node   22:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   0 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  10 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node   5 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   23:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   7 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  10 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   24:
+
+-------------------------------------------------------------------------------
+Node   25:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  17 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  31 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   26:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  17 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  31 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   27:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node   1 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  33 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node   3 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+NODE_SMALL_HULL step 0.000000
+Rejected Node  29 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   28:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  30 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  34 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   29:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  18 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  27 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  33 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  31 - Unreachable by Any Hull
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node   30:
+
+NODE_LARGE_HULL step 0.000000
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node   31:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  17 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  33 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  25 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  29 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  26 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   32:
+
+NODE_LARGE_HULL step 0.000000
+-------------------------------------------------------------------------------
+Node   33:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  17 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  31 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  29 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  27 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  18 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  19 - Unreachable by Any Hull
+NODE_SMALL_HULL step 0.000000
+Rejected Node  20 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+Node   34:
+
+NODE_SMALL_HULL step 0.000000
+Rejected Node  28 - Unreachable by Any Hull
+-------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+InLine Rejection:
+----------------------------------------------------------------------------
+Node   0:
+REJECTED NODE   5 through Node   3, Dot = 0.999703
+REJECTED NODE  20 through Node  14, Dot = 0.998282
+REJECTED NODE  17 through Node  16, Dot = 0.999757
+REJECTED NODE   7 through Node   3, Dot = 0.999952
+REJECTED NODE  10 through Node   3, Dot = 0.999929
+REJECTED NODE  11 through Node   9, Dot = 0.999945
+----------------------------------------------------------------------------
+
+Node   1:
+REJECTED NODE  19 through Node  18, Dot = 0.999899
+REJECTED NODE  18 through Node  13, Dot = 0.999218
+----------------------------------------------------------------------------
+
+Node   2:
+REJECTED NODE  27 through Node   0, Dot = 0.998657
+REJECTED NODE   7 through Node   4, Dot = 0.998865
+REJECTED NODE  14 through Node   0, Dot = 0.999512
+REJECTED NODE  20 through Node  16, Dot = 0.999817
+REJECTED NODE  17 through Node  16, Dot = 0.999883
+REJECTED NODE  10 through Node   4, Dot = 0.998710
+----------------------------------------------------------------------------
+
+Node   3:
+REJECTED NODE   7 through Node   5, Dot = 0.998320
+REJECTED NODE  18 through Node  13, Dot = 0.999986
+REJECTED NODE  10 through Node   5, Dot = 0.998369
+REJECTED NODE  11 through Node   5, Dot = 0.998488
+----------------------------------------------------------------------------
+
+Node   4:
+REJECTED NODE   9 through Node   6, Dot = 1.000000
+REJECTED NODE  14 through Node   3, Dot = 0.998611
+REJECTED NODE  11 through Node   6, Dot = 0.999997
+----------------------------------------------------------------------------
+
+Node   5:
+REJECTED NODE   0 through Node   3, Dot = 0.998899
+REJECTED NODE  11 through Node   9, Dot = 0.999858
+REJECTED NODE  10 through Node   7, Dot = 0.999969
+----------------------------------------------------------------------------
+
+Node   6:
+REJECTED NODE   3 through Node   5, Dot = 0.999246
+REJECTED NODE  11 through Node   9, Dot = 0.999995
+----------------------------------------------------------------------------
+
+Node   7:
+REJECTED NODE   0 through Node   3, Dot = 0.999994
+REJECTED NODE  11 through Node   9, Dot = 0.998545
+REJECTED NODE   2 through Node   4, Dot = 0.999506
+REJECTED NODE   8 through Node   6, Dot = 1.000000
+REJECTED NODE   3 through Node   5, Dot = 0.999911
+----------------------------------------------------------------------------
+
+Node   8:
+----------------------------------------------------------------------------
+
+Node   9:
+REJECTED NODE   0 through Node   3, Dot = 0.999749
+REJECTED NODE   3 through Node   5, Dot = 0.999971
+REJECTED NODE   4 through Node   6, Dot = 1.000000
+----------------------------------------------------------------------------
+
+Node  10:
+REJECTED NODE   0 through Node   3, Dot = 0.999997
+REJECTED NODE   2 through Node   4, Dot = 0.999863
+REJECTED NODE   3 through Node   7, Dot = 0.999999
+REJECTED NODE   5 through Node   7, Dot = 0.999973
+----------------------------------------------------------------------------
+
+Node  11:
+REJECTED NODE   0 through Node   3, Dot = 0.999832
+REJECTED NODE   2 through Node   4, Dot = 0.998922
+REJECTED NODE   3 through Node   5, Dot = 0.999986
+REJECTED NODE   4 through Node   9, Dot = 0.999903
+REJECTED NODE   6 through Node   9, Dot = 0.999927
+----------------------------------------------------------------------------
+
+Node  12:
+----------------------------------------------------------------------------
+
+Node  13:
+REJECTED NODE  17 through Node  16, Dot = 0.999916
+REJECTED NODE  27 through Node  16, Dot = 0.998903
+REJECTED NODE  19 through Node  18, Dot = 0.999745
+----------------------------------------------------------------------------
+
+Node  14:
+REJECTED NODE   2 through Node   0, Dot = 0.999772
+REJECTED NODE   4 through Node   3, Dot = 0.999651
+----------------------------------------------------------------------------
+
+Node  15:
+REJECTED NODE  19 through Node  18, Dot = 0.999961
+----------------------------------------------------------------------------
+
+Node  16:
+REJECTED NODE   2 through Node   0, Dot = 0.999750
+REJECTED NODE  20 through Node  17, Dot = 0.999821
+----------------------------------------------------------------------------
+
+Node  17:
+REJECTED NODE   2 through Node   0, Dot = 0.999878
+REJECTED NODE  13 through Node  16, Dot = 0.999314
+REJECTED NODE  19 through Node  27, Dot = 0.998321
+----------------------------------------------------------------------------
+
+Node  18:
+REJECTED NODE   1 through Node   3, Dot = 0.999804
+REJECTED NODE   3 through Node  13, Dot = 0.999999
+REJECTED NODE  20 through Node  27, Dot = 0.998644
+REJECTED NODE  25 through Node  31, Dot = 0.998843
+----------------------------------------------------------------------------
+
+Node  19:
+REJECTED NODE   1 through Node   3, Dot = 0.999880
+REJECTED NODE   3 through Node  13, Dot = 0.999985
+REJECTED NODE  31 through Node  20, Dot = 0.998155
+REJECTED NODE  15 through Node  18, Dot = 0.999889
+REJECTED NODE  26 through Node  32, Dot = 0.999842
+REJECTED NODE  17 through Node  27, Dot = 0.998352
+----------------------------------------------------------------------------
+
+Node  20:
+REJECTED NODE   0 through Node  16, Dot = 0.998025
+REJECTED NODE   2 through Node  16, Dot = 0.998751
+REJECTED NODE  13 through Node  16, Dot = 0.999116
+REJECTED NODE  16 through Node  17, Dot = 0.999737
+REJECTED NODE  26 through Node  32, Dot = 0.999967
+REJECTED NODE  18 through Node  27, Dot = 0.998868
+----------------------------------------------------------------------------
+
+Node  21:
+----------------------------------------------------------------------------
+
+Node  22:
+REJECTED NODE   8 through Node  23, Dot = 0.998225
+----------------------------------------------------------------------------
+
+Node  23:
+----------------------------------------------------------------------------
+
+Node  24:
+----------------------------------------------------------------------------
+
+Node  25:
+REJECTED NODE  18 through Node  26, Dot = 0.999321
+REJECTED NODE  27 through Node  26, Dot = 1.000000
+----------------------------------------------------------------------------
+
+Node  26:
+REJECTED NODE  19 through Node  20, Dot = 0.999793
+----------------------------------------------------------------------------
+
+Node  27:
+REJECTED NODE  25 through Node  32, Dot = 0.998969
+REJECTED NODE  26 through Node  32, Dot = 0.998969
+----------------------------------------------------------------------------
+
+Node  28:
+REJECTED NODE  29 through Node  25, Dot = 0.998192
+----------------------------------------------------------------------------
+
+Node  29:
+----------------------------------------------------------------------------
+
+Node  30:
+REJECTED NODE  28 through Node  29, Dot = 0.998257
+----------------------------------------------------------------------------
+
+Node  31:
+REJECTED NODE  19 through Node  20, Dot = 0.999810
+----------------------------------------------------------------------------
+
+Node  32:
+REJECTED NODE  19 through Node  20, Dot = 0.999551
+----------------------------------------------------------------------------
+
+Node  33:
+----------------------------------------------------------------------------
+
+Node  34:
+----------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------
+Link Pairings:
+WARNING: Node   8 does not connect back to Node   0
+WARNING: Node   5 does not connect back to Node   2
+WARNING: Node   6 does not connect back to Node   3
+WARNING: Node   8 does not connect back to Node   3
+WARNING: Node   2 does not connect back to Node   6
+WARNING: Node  11 does not connect back to Node  16
+WARNING: Node  10 does not connect back to Node  16
+WARNING: Node   0 does not connect back to Node  20
+WARNING: Node   2 does not connect back to Node  21
+WARNING: Node   9 does not connect back to Node  21
+WARNING: Node  25 does not connect back to Node  23
+WARNING: Node   9 does not connect back to Node  23
+WARNING: Node  14 does not connect back to Node  27
+WARNING: Node  22 does not connect back to Node  30
+WARNING: Node  21 does not connect back to Node  30
+WARNING: Node  32 does not connect back to Node  31
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Total Number of Connections in Pool: 176
+-------------------------------------------------------------------------------
+Connection Pool: 4224 bytes
+-------------------------------------------------------------------------------

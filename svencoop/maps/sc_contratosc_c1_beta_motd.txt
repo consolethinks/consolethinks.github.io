@@ -1,0 +1,45 @@
+http://scmapdb.wikidot.com/map:contra
+
+++ Description
+This is a map bring FC game Contra into Sven Co-op.
+But of course it's not simply make the 2D one into the 3D one, I consult the original level design and remake it totally. The coast, the bridge, the canyon, and the fortress... So you can say it is a map that not completely same but can remind you the scene in original Contra.
+Textures are extracted from Contra, screenshot and fix in WindowsPaint, or totally drawn in WindowsPaint by myself. 
+This map includes AngelScript, all the bullets are floating as the original Contra does. Players can pick up ammo N(Normal ammo, the initial one but not appear in map), M, S, L, all of these ammo have different features.
+You can choose True mode or Casual mode at start place. True mode is original like style and challenging, both player and npc take one bullet then say gg. Casual mode is easier than True mode, which make players can be hit 10 times in a life time.
+
+
+++ Additional info
+
+Hi, I'm HelloTimber.
+
+Honestly, the work of drawing some textures is pretty interesting. 
+I don't know why there are so many brush errors when I compile the map. I've fixed many visible wrong brushes, this cost me lots of time.
+If you have any suggestion on this map, welcome tell it out in the comment.
+The map has been basically done, now waiting for the weapons and enemies AS scripts.
+Coming soon. How long? In a month, I guess.
+--I'm so lazy that I have already hung this map for 2 months--
+Now waiting for Dr.ABC's ASscript so I can add weapons and enemies into the map, then release it.
+I wanna make both weapons and enemies as Contra like.
+THX for Dr.ABC's help.
+--HelloTimber 22.10.2020
+
+Finally, this map is finished.
+Dr.ABC's AngelScript for my map was done long time ago, he's a really good person, but it was me that forgot to continue the map.
+This map was expected to be finished in a month(November in 2020), however, I became a freshman in my collage, so I was too fullfilling and busy to make map. As time passed, I almost forgot this hard work. Untill my friend L40_M3N9 reminds me that, "Hey, I think you've forgotten something." "What?" "Map." "OMG-" So I remember this map again and continue the remaining work. Because it is winter holiday, I can do what I can at home, so I make my map day and night, spend about a week on it, then it is done.
+I hate bugs very much, since I have to wait centuries long for my poor computer to compile a bsp, and it always has several bug in somewhere.
+But making functions are very interesting, I was concentrated when doing these.
+In my own opinion, this map isn't bad. I hope you'll like it.
+Maybe I wold change this map a bit when I release the following maps(perhaps), so I name this map beta.
+--HelloTimber 22.02.2021
+
+Medkit 164389527 SAmmo 165789423
+
+About a known problem, the func_tankrocket in boss fight produce extremely big explosion and smoke that the scale of sprites are not correct obviously. And I don't know how to solve it.
+
+
++++ Additional credits
+* **[[[http://scmapdb.com/mapper:dr-abc |Dr.ABC]]]**, for writing AngelScript for my map. He's also the provider of some basic textures since he had made dm_contra.bsp.
+* **skine**, for drawing the Gordon&Barney picture.
+* **Ui6uitth**, for giving some guidance on FC things.
+* **L40_M3N9**, for editing BGMs for the map, and reminding me I have a map to continue.
+* **ZJbot**, for giving some suggestions on fixing and improving the map.

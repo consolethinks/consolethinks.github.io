@@ -1,0 +1,47 @@
+echoes03
+-Added a clip brush to stop you getting stuck in the construction worker at the broken lift
+-Changed the bathroom door to never close
+-Removed use sounds for scientist and HEV Barney in the lift
+
+echoes04
+-Bullsquid now turns instantly to attack
+-Added dialogue line if you use HEV Barney
+
+echoes07
+-Added clip brush to stop the player from getting trapped in with the G-Man
+
+echoes09
+-Removed a couple of Headcrabs, added two Zombies
+-Fixed VOX audio, now mentions South Fire door and not North
+
+echoes09a
+-Ensured the grate doors can never close once opened
+-Removed the Headcrab at the top of the lift
+
+echoes09b
+-Ensured the grate doors can never close once opened
+
+echoes10
+-Ensured the double doors can never close once opened
+-Removed a few Headcrabs
+-Added a grenade and Otis corpse
+
+echoes12
+-Stopped the Gargantua from getting to the lower platform
+-Removed a Headcrab, and moved the position of the spawning one when you get the helmet pickup in the vent
+
+echoes15
+-Replaced the Headcrabs in the Alien Grunt bossfight with Zombies
+-Removed some Headcrabs from the crossbow area
+-Changed the bathroom door to never close
+
+echoes17
+-Removed some headcrabs, moved two spawns
+
+echoes19
+-Removed invisible developer button (oops!) - this would allow the player to trigger the booth explosion early
+-Added monsterclip to stop the Ichthyosaurs dying below the ladder and blocking the player
+-Made the toilet water mankier
+
+echoes22
+-Stopped the turret from being useable while the atrium door it shut

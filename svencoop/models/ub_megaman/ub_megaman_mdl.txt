@@ -1,0 +1,29 @@
+"models/v_medkit.mdl" "models/ub_megaman/v_medkit_rock1up.mdl"
+"models/w_pmedkit.mdl" "models/ub_megaman/w_pmedkit_rock1up.mdl"
+"models/p_medkit.mdl" "models/ub_megaman/p_medkit_rock1up.mdl"
+
+"models/v_9mmar.mdl" "models/ub_megaman/v_9mmAR_rb.mdl"
+"models/w_9mmar.mdl" "models/ub_megaman/w_9mmAR_rb.mdl"
+"models/p_9mmar.mdl" "models/ub_megaman/p_9mmAR_rb.mdl"
+
+"models/v_shotgun.mdl" "models/ub_megaman/v_shotgun_rb.mdl"
+"models/w_shotgun.mdl" "models/ub_megaman/w_shotgun_rb.mdl"
+"models/p_shotgun.mdl" "models/ub_megaman/p_shotgun_rb.mdl"
+
+"models/v_hgun.mdl" "models/ub_megaman/v_hgun_rb.mdl"
+"models/w_hgun.mdl" "models/ub_megaman/w_hgun_rb.mdl"
+"models/p_hgun.mdl" "models/ub_megaman/p_hgun_rb.mdl"
+
+"models/v_357.mdl" "models/ub_megaman/v_357_rb.mdl"
+"models/w_357.mdl" "models/ub_megaman/w_357_rb.mdl"
+"models/p_357.mdl" "models/ub_megaman/p_357_rb.mdl"
+
+"models/v_rpg.mdl" "models/ub_megaman/v_rpg_rb.mdl"
+"models/w_rpg.mdl" "models/ub_megaman/w_rpg_rb.mdl"
+"models/p_rpg.mdl" "models/ub_megaman/p_rpg_rb.mdl"
+
+"models/v_crossbow.mdl" "models/ub_megaman/v_crossbow_rb.mdl"
+"models/w_crossbow.mdl" "models/ub_megaman/w_crossbow_rb.mdl"
+"models/p_crossbow.mdl" "models/ub_megaman/p_crossbow_rb.mdl"
+
+"models/v_grenade.mdl" "models/ub_megaman/v_grenade_rb.mdl"

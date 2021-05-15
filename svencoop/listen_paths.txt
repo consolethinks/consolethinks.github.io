@@ -1,0 +1,96 @@
+Residual life - path for listen servers.
+
+mselect
+  |
+rk_00
+  |	
+rl_00r1
+  |	
+rl_00t1
+  |
+rl_00u1
+  |	
+rl_00s1
+  |	
+rl_00a7
+  |	
+rl_009
+  |		
+rl_010
+  |		
+rl_01a1
+  |		
+rl_02
+  |		
+rl_02w
+  |		
+rl_02y
+  |		
+rl_02o 
+  |	 
+rl_02p	
+  |		
+rl_02l2 -- rl_02d
+  |          |
+rl_02l3    rl_02e   
+  |__________|	
+  |
+rl_02c
+  |
+rl_02t2
+  | (maps skipped here)
+rl_02i	  
+  |	 
+rl_02h2	
+  |
+rl_02j 	
+  |
+rl_02j2	
+  |
+rl_02r2 
+  |
+rl_02k	
+  |
+rl_02k2	
+  |
+rl_02k0	
+  |
+rl_02k3 	
+  |	 		 
+rl_02u1		 	
+  |	  		 	
+rl_02u2	 		 	
+  |	 		 
+rl_02u5	 		 	
+  |	 		 
+rl_02a1  		 
+  |	  			
+rl_02a2	 		 	
+  |	 		 
+rl_02a3	  		
+  |             
+rl_02a4         
+  |	        
+rl_02a5
+  |	
+rl_02a6
+  |	
+rl_02g0 
+  |
+rl_02s2
+  |
+rl_02z1
+
+Residual life: the great escape
+rl_02l9
+  |
+rl_02u3b
+  |
+rl_02u3c
+  |
+rl_02u3e
+
+Residual life: madness
+rl_02l9
+  |
+rl_02z6

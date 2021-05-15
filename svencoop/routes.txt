@@ -1,0 +1,9 @@
+sweet half life routes:
+													  	     normal route  -> shl11 -> shl12 -> shl13 -> shl14 ---------------------->shl14b   
+															          |								    |	
+shl_t0a0 -> shlwork -> shl0 -> shl1 -> shl2 -> shl3 -> shl4 -> shl5 -> shl6 -> sh6b -> sh6(again) -> sh7 -> sh8 -> sh9 -> shl9b-> sh10          					 		     -> shl15 -> shl16 (different ending depending on the route you choose)
+								       							          |								    |
+														      alien route  -> shl_ship -> shl_ship2 -> shl_ship3 -> shl_ship4 -> shl_2001 ->
+
+
+Note: if you play in a listen server from shl6b you will not go back to shl6. Instead you will go directly to shl7. This is needed because listen servers do not support global vars. Also you will play the normal ending in shl15,shl16 for the same reasons.

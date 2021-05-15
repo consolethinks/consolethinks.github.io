@@ -1,0 +1,144 @@
+HALF-LIFE: ECHOES
+
+Created by
+James Cockburn
+http://www.moddb.com/mods/half-life-echoes
+http://www.moddb.com/members/mrgnang
+
+
+
+SUPPORT AND BETA TESTING
+
+The Whole Half-Life
+http://twhl.info/
+
+The Beta Testers Collective
+http://betatesterscollective.com/
+
+Lewis Anderson
+Doug Maclean
+Ross Mathieson
+
+The following users at Moddb.com
+Trempler
+Gunship_Mark_II
+UrbaNebula
+Qwertyus
+Crypt
+BurnerMan
+Unq
+Solokiller
+GeckonCZ
+
+
+ENGINE AND EDITING TOOLS
+
+Spirit of Half-Life 1.5
+(With various edits to source code by myself)
+http://www.moddb.com/mods/spirit-of-half-life
+
+VHLT compiling tools
+https://forums.svencoop.com/forumdisplay.php/217-Vluzacn-s-Map-Compile-Tools
+
+Jackhammer editor
+http://jackhammer.hlfx.ru/en/
+
+
+
+TEXTURES AND SPRITES
+
+Nightwatch Textures
+http://www.moddb.com/games/half-life/addons/nightwatch-texture-pack
+
+Blood Decals
+http://gamebanana.com/sprites/253
+
+HD Skyboxes
+https://gamebanana.com/textures/download/406
+
+Additional Sprites
+https://gamebanana.com/effects/download/5753
+
+
+
+MODELS
+
+Various models by Valve Software, Gearbox Software, Rewolf Software
+
+Gargantua by Wornz
+http://www.hitmodel.half-lifecreations.com/filedb/index.php?act=view&id=27
+
+Grunts/Alien Grunts/Slaves/Hev Barney plus many others by ambient.impact and romka
+http://old.ambientimpact.com/downloads.htm
+
+Blue shift civilian model by arahu01 and Marphy Black
+http://hl-improvement.com/forums/index.php?topic=1649
+
+Decay models by the Decay team PC port
+https://www.moddb.com/mods/half-life-decay
+
+Super Definition pack
+Hand Hacks by Enfield
+https://gamebanana.com/skins/29335
+
+Gus by Ambient.Impact and Romka
+https://gamebanana.com/skins/77136
+
+Zombies by Ambient.Impact, Arachnid-X, Chubbt, Fury_161, Gaming Lord, Szarak, S@bre, Romka
+http://hl.gamebanana.com/skins/46015
+
+Besli's edit of Ambient.Impact's 9mm Beretta
+Besli's edit of Romka's M4, SPAS12
+
+Additional model edits by Cro-man / Davor
+
+Stationary Osprey model edit by Qwertyus
+Barney HEV model edit to add magnum by Qwertyus
+
+Eli, Alyx and Mossman models
+https://steamcommunity.com/sharedfiles/filedetails/?id=631466533
+
+
+
+SOUNDTRACK
+
+Various replacement sounds by Valve Software, Gearbox Software
+Many edited / remixed by myself
+
+Additional sounds from 
+http://www.soundjay.com/
+http://www.freesound.org/browse/
+
+
+All music created by Kevin MacLeod - Incompetech.com 
+
+Very Low Note
+Anxiety
+Mechanolith
+Controlled Chaos - no percussion 
+Controlled Chaos
+It is Lost
+Aftermath
+Redletter
+Unseen Horrors
+Junkyard Tribe
+Deep Noise
+Spacial Winds
+Bump in the Night
+Hush
+Bent and Broken
+Static Motion
+
+All Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+
+
+Dedicated to Sam and Emma.
+With you, anything is possible.
+
+My gratitude to Valve Software, Gearbox Software
+and to all who support the modding community.
+
+Thank you for playing.
+
