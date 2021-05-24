@@ -1,0 +1,24 @@
+MISSION OBJECIVE
+
+Now that you are deeply inside the base of the Mother Spleen[tm],
+there is no turning back. You'll have to find the beast, but
+before you can fight against her you'll have to find
+the Evil-Machine and destroy it.
+
+Good Luck and remember...
+you are our last hope
+*cough*
+I wish I'd get a dollar for every
+time I have to say that.
+
+
+Bug fixes for Sven Co-op 4.5 by AdamR:
+
+* Fixed final boss rotating to player emitted sounds.
+
+
+Changes for Sven Co-op 4.5 by AdamR:
+
+* Added M16 by the assault rifle grenades to make them usable.
+* Increased maximum viewable distance from 4096 to 6144, as certain areas get cut off short.
+* Recompiled map with my custom x64 build of Vluzacn's ZHLT.

@@ -1,0 +1,39 @@
+Polar Rescue
+By Adam "Adambean" Reece
+
+Version: Revised 4, 16th May 2015
+
+More information about this map including reviews, screen shots, ratings, and comments are available at the Sven Co-op maps database:
+http://www.scmapdb.com/map:polar-rescue
+
+
+.: Description :.
+
+A global gang of illegal arms dealers have taken a 5 man team of the world’s finest nuclear specialists hostage to a hideout of theirs in Antarctica. Your Sven Co-op team has been selected specially to rescue them. Knowing the captives well they are likely to refuse working with terrorists or similar even under torture, we have learned that the gang will kill them when they find out they have no use for them.
+
+The gang have also constructed several mini nuclear rockets that are currently being stored in the same hideout. Disable any nuclear equipment on the premises to put a stop on further production.
+
+Be sure to pick up any documents. They will tell us what this gang intends on doing in the near future. You will have to get in secured storage areas to find them.
+
+2 elite soldiers have already been dispatched to the area. Hopefully they will be able to reach you and assist you in your mission, though don't hold your breath for their arrival.
+
+An Osprey helicopter will arrive to extract your team and the hostages once all your objectives are completed and the landing platform is clear. Use a radio to call for your extraction once your mission is completed.
+
+Your objectives are:
+
+    1. Rescue all hostages before they are executed
+    2. Disarm all nuclear warheads
+    3. Collect all secret documents
+    4. Clear the landing platform for extraction
+    5. Radio for an extraction Osprey once you have all hostages in a safe area (radio room)
+
+Rescuing the 5 hostages is your absolute top priority, and you only have 15 minutes before the gang boss has them executed! Ensure they are safe before attempting any other objectives.
+
+Failure will denote your redundancy to our elite team -- and nobody leaves us, alive.
+
+
+.: More information :.
+
+Please read the "polar_rescue.txt" file inside your Sven Co-op maps folder for extended information, credits, and testers because if I extend this MOTD much further you'll all get silly "reliable channel overflowed" errors.
+
+This map requires Sven Co-op 5.0 or later to run because it uses some new entity features from it.
